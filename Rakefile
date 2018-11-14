@@ -1,4 +1,4 @@
-namespace :greetomg d0
+namespace :greetomg do
 desc 'outputs hello to the terminal'
 task :hello do
   puts "hello from Rake!"
